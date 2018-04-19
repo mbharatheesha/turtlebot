@@ -58,24 +58,24 @@
 - git:
     uri: https://github.com/turtlebot/turtlebot_msgs.git
     local-name: turtlebot_msgs
-    version: kinetic
+    version: indigo
 
 - git:
-    uri: https://github.com/mbharatheesha/turtlebot.git
+    uri: https://github.com/turtlebot/turtlebot.git
     local-name: turtlebot
     version: kinetic
 
 - git:
     uri: https://github.com/turtlebot/turtlebot_simulator.git
     local-name: turtlebot_simulator
-    version: kinetic
+    version: indigo
 
 - git:
     uri: https://github.com/turtlebot/turtlebot_apps.git
     local-name: turtlebot_apps
-    version: kinetic
+    version: indigo
 
 - git:
     uri: https://github.com/turtlebot/turtlebot_interactions.git
     local-name: turtlebot_interactions
-    version: kinetic
+    version: indigo
