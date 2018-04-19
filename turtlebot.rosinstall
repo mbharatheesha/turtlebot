@@ -19,12 +19,12 @@
 - git:
     uri: https://github.com/yujinrobot/yocs_msgs.git
     local-name: yocs_msgs
-    version: kinetic
+    version: release/0.6-kinetic
 
 - git:
     uri: https://github.com/yujinrobot/yujin_ocs.git
     local-name: yujin_ocs
-    version: kinetic
+    version: indigo
 
 - git:
     uri: https://github.com/yujinrobot/kobuki_msgs.git
